@@ -1,6 +1,5 @@
 CodeBook
 ================
-
 Este code book describe variables, datos y cualquier transformación o
 trabajo realizado para limpiar los datos.
 

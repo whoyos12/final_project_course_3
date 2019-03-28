@@ -3,7 +3,6 @@ title: "CodeBook"
 output: github_document
 ---
 
-
 Este code book describe variables, datos y cualquier transformación o trabajo realizado para limpiar los datos.
 
 ## Fuente de los datos
